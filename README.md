@@ -1,8 +1,8 @@
 # advansed_app
 
-A new Flutter project.
+A new Flutter advansed project.
 
-## Getting Started
+## : art
 
 This project is a starting point for a Flutter application.
 
